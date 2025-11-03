@@ -48,14 +48,7 @@ CIRCUIT DIAGRAMS
 
 ![WhatsApp Image 2025-11-03 at 13 42 57_8bf41661](https://github.com/user-attachments/assets/7ca1d0ae-052d-4d8c-a0c4-a9462b88a138)
 
-##RESULT:
+# RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
-
-
-WAVEFORM:
-
-
-RESULT:
-
-Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
+.
