@@ -36,6 +36,11 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/94fa6384-fb3d-4c71-9050-afa29c53f4b4" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4f7188f0-b65d-4f54-a6a0-17b0ca4c5e43" />
+
+
 ![WhatsApp Image 2025-11-03 at 13 42 54_c86b5598](https://github.com/user-attachments/assets/61f0170b-d402-401a-bfc6-ec7560453ef2)
 
 ![WhatsApp Image 2025-11-03 at 13 42 56_660cbee6](https://github.com/user-attachments/assets/d93637db-8e6c-4d14-a2d0-3ce8f49ad17d)
